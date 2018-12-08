@@ -47,7 +47,7 @@ Write-Output "Cmdlets use verb-noun names to reduce command memorization"
 # PowerShell has a recommended set of standard verbs. Nouns are less restricted, but always describe what the verb acts upon. 
 # PowerShell has commands such as Get-Process, Stop-Process, Get-Service, and Stop-Service.
 
-Get-Command -Verb Get
+Write-Output "Get-Command -Verb Get"
 
 # CommandType     Name                            Definition
 # -----------     ----                            ----------
@@ -56,7 +56,7 @@ Get-Command -Verb Get
 # Cmdlet          Get-AuthenticodeSignature       Get-AuthenticodeSignature [-...
 # Cmdlet          Get-ChildItem                   Get-ChildItem [[-Path] <Stri...
 
-Get-Command -Noun Service
+Write-Output "Get-Command -Noun Service"
 
 # CommandType     Name                            Definition
 # -----------     ----                            ----------
@@ -66,14 +66,14 @@ Get-Command -Noun Service
 # Cmdlet          Resume-Service                  Resume-Service [-Name] <Stri...
 # Cmdlet          Set-Service                     Set-Service [-Name] <String>...
 
-Get-Command -Name clear-host
+Get-Command -Name clear-host 
 
-CommandType     Name                                               Version    Source
------------     ----                                               -------    ------
-Function        Clear-Host
+# CommandType     Name                                               Version    Source
+# -----------     ----                                               -------    ------
+# Function        Clear-Host
 
-
-Get-Command -?
+Write-Output "Get-Command -? | Select-Object -First 100"
+Get-Command -? | Select-Object -First 100
 
 # NAME
 #     Get-Command
@@ -101,3 +101,11 @@ Get-Command -?
 # For example, the recommended name for a parameter that refers to a computer is "ComputerName", rather than Server, Host, System, Node, or some other common alternative. 
 # Other important recommended parameter names are "Force", "Exclude", "Include", "PassThru", "Path", and "CaseSensitive".
 
+
+# Powershell will use alias to interpreter the common commands on other platform into some
+Get-Alias cls
+
+Write-Output "Creating new Alias: Set-Alias -Name gi -Value Get-Item"
+
+# This line will fail due to gi is not writable
+Set-Alias -Name gi -Value Get-Item
