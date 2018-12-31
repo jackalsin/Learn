@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Chapter1
+namespace Chapter1.Listing_1_3
 {
     class Product
     {
@@ -22,9 +22,9 @@ namespace Chapter1
         {
             return new List<Product>
             {
-                new Product {Name = "West Side Story", Price = 9.99m },
-                new Product (),
-                new Product("Frogs", 13.99m),
+            new Product {Name = "West Side Story", Price = 9.99m },
+            new Product (),
+            new Product("Frogs", 13.99m),
             };
 
         }
