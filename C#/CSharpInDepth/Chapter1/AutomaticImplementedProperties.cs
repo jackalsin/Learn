@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Chapter1.Listing_1_3
+namespace Chapter1.Listing_1_1_3
 {
     class Product
     {
