@@ -3,9 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 class Square extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      value: null
+    }
+  }
+
   render() {
     return (
-      <button className="square">
+      <button className="square" onClick={ () => this.props.onClick() }>
         {this.props.value}
       </button>
     );
@@ -13,8 +20,27 @@ class Square extends React.Component {
 }
 
 class Board extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      squares: Array(9).fill(null),
+    };
+  }
+
+  handleClick(i) {
+    // {
+    //   // this will part will not work, reactJS is unable to detect the change from mutable objects
+    //   const squares = this.state.squares;
+    //   squares[i] = 'X';
+    // }
+   const squares = this.state.squares.slice();
+   squares[i] = 'X';
+   this.setState({squares: squares});
+}
+
   renderSquare(i) {
-    return <Square value={i} />;
+    // this is passing down the 2 props to the down level
+    return <Square value={this.state.squares[i]} onClick={() => this.handleClick(i)} />;
   }
 
   render() {
