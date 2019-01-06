@@ -1,10 +1,10 @@
-const { app, BrowerWindow } = require('electron');
+const {app, BrowerWindow} = require('electron');
 
 let mainWindow
 
 function createWindow() {
     mainWindow = new BrowerWindow(
-        { width: 800, height: 600 }
+        {width: 800, height: 600}
     )
 
     mainWindow.loadFile('index.html')
