@@ -1,6 +1,6 @@
 # Powershell Tutorial Test
 
-This a self-learn powershell.
+This a self-learn powershell project.
 
 ## Reference
 
