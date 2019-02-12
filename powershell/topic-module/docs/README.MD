@@ -14,6 +14,8 @@
     - [How to Write a PowerShell Module Manifest](#how-to-write-a-powershell-module-manifest)
       - [Creating a Module Manifest](#creating-a-module-manifest)
         - [To create and use a module manifest](#to-create-and-use-a-module-manifest)
+      - [Test a Module Manifest](#test-a-module-manifest)
+      - [Reference Entry](#reference-entry)
     - [Installing a PowerShell Module](#installing-a-powershell-module)
     - [Modifying the PSModulePath Installation Path](#modifying-the-psmodulepath-installation-path)
     - [Importing a PowerShell Module](#importing-a-powershell-module)
@@ -95,7 +97,23 @@ You directly import module using relative path or the full path. Or you can impo
 1. Run `'@{ModuleVersion="1.0"}' > myModuleName.psd1`
 1. Run `New-ModuleManifest myModuleName.psd1 -ModuleVersion "2.0" -Author "YourNameHere"`
 
+#### Test a Module Manifest
+
+Run `Test-ModuleManifest myModuleName.psd1`
+
+#### [Reference Entry](https://docs.microsoft.com/en-us/powershell/developer/module/how-to-write-a-powershell-module-manifest#module-manifest-elements)
+
 ### Installing a PowerShell Module
+
+By default, the `PSModulePath` contains the following system and user module directories
+
+- $PSHome\Modules (%Windir%\System32\WindowsPowerShell\v1.0\Modules)
+ Warning
+  - This location is reserved for modules that ship with Windows. Do not install modules to this location.
+- $Home\Documents\WindowsPowerShell\Modules              (%UserProfile%\Documents\WindowsPowerShell\Modules)
+- $Env:ProgramFiles\WindowsPowerShell\Modules (%ProgramFiles%\WindowsPowerShell\Modules)
+
+[More Details](https://docs.microsoft.com/en-us/powershell/developer/module/installing-a-powershell-module)
 
 ### Modifying the PSModulePath Installation Path
 
