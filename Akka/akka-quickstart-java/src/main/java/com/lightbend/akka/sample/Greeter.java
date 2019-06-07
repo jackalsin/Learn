@@ -5,27 +5,37 @@ import akka.actor.ActorRef;
 import akka.actor.Props;
 import com.lightbend.akka.sample.Printer.Greeting;
 
-//#greeter-messages
 public class Greeter extends AbstractActor {
-//#greeter-messages
+  /**
+   * It is also a common pattern to use a static props method in the class of the Actor that describes how to
+   * construct the Actor.
+   *
+   * @param message
+   * @param printerActor
+   * @return
+   */
   static public Props props(String message, ActorRef printerActor) {
     return Props.create(Greeter.class, () -> new Greeter(message, printerActor));
   }
 
-  //#greeter-messages
+  /**
+   * The receiver of the message
+   */
   static public class WhoToGreet {
     public final String who;
 
     public WhoToGreet(String who) {
-        this.who = who;
+      this.who = who;
     }
   }
 
+  /**
+   * instructions to execute greeting
+   */
   static public class Greet {
     public Greet() {
     }
   }
-  //#greeter-messages
 
   private final String message;
   private final ActorRef printerActor;
@@ -43,12 +53,8 @@ public class Greeter extends AbstractActor {
           this.greeting = message + ", " + wtg.who;
         })
         .match(Greet.class, x -> {
-          //#greeter-send-message
           printerActor.tell(new Greeting(greeting), getSelf());
-          //#greeter-send-message
         })
         .build();
   }
-//#greeter-messages
 }
-//#greeter-messages
