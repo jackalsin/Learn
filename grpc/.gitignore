@@ -2,4 +2,5 @@
 *.iml
 target
 *.tmp
-src\main\java\le\arn\*
+src/main/java/le/arn/*
+io/grpc/example/helloService/*
