@@ -1,0 +1,13 @@
+{
+  "web": {
+    "client_id": "989894749497-uimnutf37i4ievh5drogh88al3s0mtuo.apps.googleusercontent.com",
+    "project_id": "nodejstest-1584467514117",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "V0VNpaiiAniGig51N18VsLrC",
+    "redirect_uris": [
+      "http://zhixi-domain-test.eastus2.cloudapp.azure.com:3000/oauth2callback"
+    ]
+  }
+}
