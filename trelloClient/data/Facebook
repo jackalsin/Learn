@@ -1,0 +1,575 @@
+10012	Leftmost Column with a at Least a One
+1379	Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+1361	Validate Binary Tree Nodes
+1357	Apply Discount Every n Orders
+
+1322	Ads Performance
+1269	Number of Ways to Stay in the Same Place After Some Steps
+
+1264	Page Recommendations
+1249	Minimum Remove to Make Valid Parentheses
+
+1245	Tree Diameter
+
+1242	Web Crawler Multithreaded
+
+1241	Number of Comments per Post
+
+1236	Web Crawler
+
+1225	Report Contiguous Dates
+1219	Path with Maximum Gold
+
+1216	Valid Palindrome III
+
+1213	Intersection of Three Sorted Arrays
+
+1211	Queries Quality and Percentage
+
+1197	Minimum Knight Moves
+1146	Snapshot Array
+
+1142	User Activity for the Past 30 Days II
+
+1141	User Activity for the Past 30 Days I
+
+1132	Reported Posts II
+1123	Lowest Common Ancestor of Deepest Leaves
+
+1113	Reported Posts
+1108	Defanging an IP Address
+1094	Car Pooling
+1091	Shortest Path in Binary Matrix
+
+1077	Project Employees III
+
+1076	Project Employees II
+
+1075	Project Employees I
+
+1060	Missing Element in Sorted Array
+1053	Previous Permutation With One Swap
+1043	Partition Array for Maximum Sum
+1040	Moving Stones Until Consecutive II
+1033	Moving Stones Until Consecutive
+1032	Stream of Characters
+1027	Longest Arithmetic Sequence
+1026	Maximum Difference Between Node and Ancestor
+1021	Remove Outermost Parentheses
+1008	Construct Binary Search Tree from Preorder Traversal
+1004	Max Consecutive Ones III
+998	Maximum Binary Tree II
+997	Find the Town Judge
+989	Add to Array-Form of Integer
+987	Vertical Order Traversal of a Binary Tree
+986	Interval List Intersections
+983	Minimum Cost For Tickets
+981	Time Based Key-Value Store
+977	Squares of a Sorted Array
+973	K Closest Points to Origin
+969	Pancake Sorting
+968	Binary Tree Cameras
+963	Minimum Area Rectangle II
+958	Check Completeness of a Binary Tree
+953	Verifying an Alien Dictionary
+939	Minimum Area Rectangle
+938	Range Sum of BST
+935	Knight Dialer
+921	Minimum Add to Make Parentheses Valid
+916	Word Subsets
+905	Sort Array By Parity
+896	Monotonic Array
+893	Groups of Special-Equivalent Strings
+889	Construct Binary Tree from Preorder and Postorder Traversal
+886	Possible Bipartition
+885	Spiral Matrix III
+875	Koko Eating Bananas
+872	Leaf-Similar Trees
+865	Smallest Subtree with all the Deepest Nodes
+863	All Nodes Distance K in Binary Tree
+862	Shortest Subarray with Sum at Least K
+855	Exam Room
+852	Peak Index in a Mountain Array
+848	Shifting Letters
+844	Backspace String Compare
+843	Guess the Word
+839	Similar String Groups
+825	Friends Of Appropriate Ages
+824	Goat Latin
+801	Minimum Swaps To Make Sequences Increasing
+794	Valid Tic-Tac-Toe State
+791	Custom Sort String
+788	Rotated Digits
+785	Is Graph Bipartite
+784	Letter Case Permutation
+778	Swim in Rising Water
+
+776	Split BST
+
+772	Basic Calculator III
+771	Jewels and Stones
+767	Reorganize String
+766	Toeplitz Matrix
+764	Largest Plus Sign
+752	Open the Lock
+
+750	Number Of Corner Rectangles
+745	Prefix and Suffix Search
+
+742	Closest Leaf in a Binary Tree
+739	Daily Temperatures
+733	Flood Fill
+726	Number of Atoms
+724	Find Pivot Index
+721	Accounts Merge
+714	Best Time to Buy and Sell Stock with Transaction Fee
+
+708	Insert into a Sorted Circular Linked List
+703	Kth Largest Element in a Stream
+701	Insert into a Binary Search Tree
+698	Partition to K Equal Sum Subsets
+695	Max Area of Island
+
+694	Number of Distinct Islands
+692	Top K Frequent Words
+691	Stickers to Spell Word
+689	Maximum Sum of 3 Non-Overlapping Subarrays
+688	Knight Probability in Chessboard
+
+681	Next Closest Time
+680	Valid Palindrome II
+679	24 Game
+678	Valid Parenthesis String
+676	Implement Magic Dictionary
+674	Longest Continuous Increasing Subsequence
+673	Number of Longest Increasing Subsequence
+670	Maximum Swap
+
+663	Equal Tree Partition
+662	Maximum Width of Binary Tree
+658	Find K Closest Elements
+655	Print Binary Tree
+654	Maximum Binary Tree
+653	Two Sum IV - Input is a BST
+647	Palindromic Substrings
+
+642	Design Search Autocomplete System
+641	Design Circular Deque
+639	Decode Ways II
+637	Average of Levels in Binary Tree
+636	Exclusive Time of Functions
+632	Smallest Range Covering Elements from K Lists
+628	Maximum Product of Three Numbers
+622	Design Circular Queue
+621	Task Scheduler
+
+616	Add Bold Tag in String
+
+614	Second Degree Follower
+611	Valid Triangle Number
+
+602	Friend Requests II: Who Has the Most Friends
+
+597	Friend Requests I: Overall Acceptance Rate
+593	Valid Square
+
+578	Get Highest Answer Rate Question
+572	Subtree of Another Tree
+
+568	Maximum Vacation Days
+567	Permutation in String
+564	Find the Closest Palindrome
+560	Subarray Sum Equals K
+556	Next Greater Element III
+554	Brick Wall
+
+550	Game Play Analysis IV
+
+549	Binary Tree Longest Consecutive Sequence II
+
+548	Split Array with Equal Sum
+547	Friend Circles
+543	Diameter of Binary Tree
+540	Single Element in a Sorted Array
+
+536	Construct Binary Tree from String
+535	Encode and Decode TinyURL
+529	Minesweeper
+528	Random Pick with Weight
+525	Contiguous Array
+523	Continuous Subarray Sum
+518	Coin Change 2
+516	Longest Palindromic Subsequence
+515	Find Largest Value in Each Tree Row
+509	Fibonacci Number
+
+505	The Maze II
+503	Next Greater Element II
+498	Diagonal Traverse
+496	Next Greater Element I
+494	Target Sum
+493	Reverse Pairs
+491	Increasing Subsequences
+
+490	The Maze
+
+489	Robot Room Cleaner
+480	Sliding Window Median
+478	Generate Random Point in a Circle
+477	Total Hamming Distance
+468	Validate IP Address
+463	Island Perimeter
+461	Hamming Distance
+452	Minimum Number of Arrows to Burst Balloons
+451	Sort Characters By Frequency
+450	Delete Node in a BST
+449	Serialize and Deserialize BST
+448	Find All Numbers Disappeared in an Array
+446	Arithmetic Slices II - Subsequence
+445	Add Two Numbers II
+443	String Compression
+442	Find All Duplicates in an Array
+438	Find All Anagrams in a String
+437	Path Sum III
+435	Non-overlapping Intervals
+432	All O`one Data Structure
+430	Flatten a Multilevel Doubly Linked List
+
+428	Serialize and Deserialize N-ary Tree
+
+426	Convert Binary Search Tree to Sorted Doubly Linked List
+419	Battleships in a Board
+417	Pacific Atlantic Water Flow
+416	Partition Equal Subset Sum
+415	Add Strings
+414	Third Maximum Number
+413	Arithmetic Slices
+412	Fizz Buzz
+410	Split Array Largest Sum
+
+408	Valid Word Abbreviation
+405	Convert a Number to Hexadecimal
+404	Sum of Left Leaves
+403	Frog Jump
+402	Remove K Digits
+399	Evaluate Division
+398	Random Pick Index
+395	Longest Substring with At Least K Repeating Characters
+394	Decode String
+393	UTF-8 Validation
+392	Is Subsequence
+388	Longest Absolute File Path
+387	First Unique Character in a String
+382	Linked List Random Node
+381	Insert Delete GetRandom O(1) - Duplicates allowed
+380	Insert Delete GetRandom O(1
+378	Kth Smallest Element in a Sorted Matrix
+377	Combination Sum IV
+373	Find K Pairs with Smallest Sums
+371	Sum of Two Integers
+
+364	Nested List Weight Sum II
+
+360	Sort Transformed Array
+
+358	Rearrange String k Distance Apart
+
+353	Design Snake Game
+352	Data Stream as Disjoint Intervals
+350	Intersection of Two Arrays II
+349	Intersection of Two Arrays
+
+348	Design Tic-Tac-Toe
+347	Top K Frequent Elements
+
+346	Moving Average from Data Stream
+345	Reverse Vowels of a String
+344	Reverse String
+341	Flatten Nested List Iterator
+
+340	Longest Substring with At Most K Distinct Characters
+
+339	Nested List Weight Sum
+338	Counting Bits
+337	House Robber III
+336	Palindrome Pairs
+334	Increasing Triplet Subsequence
+332	Reconstruct Itinerary
+329	Longest Increasing Path in a Matrix
+328	Odd Even Linked List
+
+325	Maximum Size Subarray Sum Equals k
+324	Wiggle Sort II
+
+323	Number of Connected Components in an Undirected Graph
+322	Coin Change
+319	Bulb Switcher
+
+317	Shortest Distance from All Buildings
+316	Remove Duplicate Letters
+315	Count of Smaller Numbers After Self
+
+314	Binary Tree Vertical Order Traversal
+312	Burst Balloons
+
+311	Sparse Matrix Multiplication
+310	Minimum Height Trees
+
+308	Range Sum Query 2D - Mutable
+307	Range Sum Query - Mutable
+
+305	Number of Islands II
+304	Range Sum Query 2D - Immutable
+303	Range Sum Query - Immutable
+301	Remove Invalid Parentheses
+300	Longest Increasing Subsequence
+
+298	Binary Tree Longest Consecutive Sequence
+297	Serialize and Deserialize Binary Tree
+
+296	Best Meeting Point
+295	Find Median from Data Stream
+
+291	Word Pattern II
+287	Find the Duplicate Number
+
+286	Walls and Gates
+
+285	Inorder Successor in BST
+283	Move Zeroes
+282	Expression Add Operators
+
+281	Zigzag Iterator
+
+280	Wiggle Sort
+279	Perfect Squares
+278	First Bad Version
+
+277	Find the Celebrity
+275	H-Index II
+274	H-Index
+273	Integer to English Words
+
+272	Closest Binary Search Tree Value II
+
+270	Closest Binary Search Tree Value
+
+269	Alien Dictionary
+268	Missing Number
+
+266	Palindrome Permutation
+
+265	Paint House II
+
+261	Graph Valid Tree
+260	Single Number III
+257	Binary Tree Paths
+
+253	Meeting Rooms II
+
+252	Meeting Rooms
+
+251	Flatten 2D Vector
+
+250	Count Univalue Subtrees
+
+249	Group Shifted Strings
+
+248	Strobogrammatic Number III
+
+247	Strobogrammatic Number II
+
+246	Strobogrammatic Number
+242	Valid Anagram
+241	Different Ways to Add Parentheses
+240	Search a 2D Matrix II
+239	Sliding Window Maximum
+238	Product of Array Except Self
+236	Lowest Common Ancestor of a Binary Tree
+235	Lowest Common Ancestor of a Binary Search Tree
+234	Palindrome Linked List
+230	Kth Smallest Element in a BST
+229	Majority Element II
+228	Summary Ranges
+227	Basic Calculator II
+226	Invert Binary Tree
+224	Basic Calculator
+223	Rectangle Area
+222	Count Complete Tree Nodes
+221	Maximal Square
+218	The Skyline Problem
+215	Kth Largest Element in an Array
+214	Shortest Palindrome
+212	Word Search II
+211	Add and Search Word - Data structure design
+210	Course Schedule II
+209	Minimum Size Subarray Sum
+208	Implement Trie (Prefix Tree
+207	Course Schedule
+206	Reverse Linked List
+202	Happy Number
+200	Number of Islands
+199	Binary Tree Right Side View
+192	Word Frequency
+191	Number of 1 Bits
+189	Rotate Array
+188	Best Time to Buy and Sell Stock IV
+181	Employees Earning More Than Their Managers
+179	Largest Number
+178	Rank Scores
+177	Nth Highest Salary
+176	Second Highest Salary
+173	Binary Search Tree Iterator
+
+170	Two Sum III - Data structure design
+168	Excel Sheet Column Title
+167	Two Sum II - Input array is sorted
+166	Fraction to Recurring Decimal
+
+163	Missing Ranges
+162	Find Peak Element
+
+161	One Edit Distance
+160	Intersection of Two Linked Lists
+
+159	Longest Substring with At Most Two Distinct Characters
+
+158	Read N Characters Given Read4 II - Call multiple times
+
+157	Read N Characters Given Read4
+154	Find Minimum in Rotated Sorted Array II
+153	Find Minimum in Rotated Sorted Array
+152	Maximum Product Subarray
+151	Reverse Words in a String
+148	Sort List
+146	LRU Cache
+
+145	Binary Tree Postorder Traversal
+143	Reorder List
+141	Linked List Cycle
+140	Word Break II
+139	Word Break
+138	Copy List with Random Pointer
+137	Single Number II
+136	Single Number
+134	Gas Station
+133	Clone Graph
+130	Surrounded Regions
+129	Sum Root to Leaf Numbers
+128	Longest Consecutive Sequence
+127	Word Ladder
+126	Word Ladder II
+125	Valid Palindrome
+124	Binary Tree Maximum Path Sum
+123	Best Time to Buy and Sell Stock III
+122	Best Time to Buy and Sell Stock II
+121	Best Time to Buy and Sell Stock
+118	Pascal's Triangle
+117	Populating Next Right Pointers in Each Node II
+116	Populating Next Right Pointers in Each Node
+114	Flatten Binary Tree to Linked List
+113	Path Sum II
+112	Path Sum
+111	Minimum Depth of Binary Tree
+110	Balanced Binary Tree
+109	Convert Sorted List to Binary Search Tree
+108	Convert Sorted Array to Binary Search Tree
+106	Construct Binary Tree from Inorder and Postorder Traversal
+105	Construct Binary Tree from Preorder and Inorder Traversal
+104	Maximum Depth of Binary Tree
+103	Binary Tree Zigzag Level Order Traversal
+102	Binary Tree Level Order Traversal
+101	Symmetric Tree
+100	Same Tree
+
+99	Recover Binary Search Tree
+
+98	Validate Binary Search Tree
+94	Binary Tree Inorder Traversal
+93	Restore IP Addresses
+92	Reverse Linked List II
+91	Decode Ways
+90	Subsets II
+88	Merge Sorted Array
+85	Maximal Rectangle
+84	Largest Rectangle in Histogram
+81	Search in Rotated Sorted Array II
+80	Remove Duplicates from Sorted Array II
+79	Word Search
+78	Subsets
+77	Combinations
+76	Minimum Window Substring
+
+75	Sort Colors
+74	Search a 2D Matrix
+73	Set Matrix Zeroes
+72	Edit Distance
+71	Simplify Path
+70	Climbing Stairs
+69	Sqrt(x
+68	Text Justification
+67	Add Binary
+66	Plus One
+
+65	Valid Number
+64	Minimum Path Sum
+63	Unique Paths II
+62	Unique Paths
+59	Spiral Matrix II
+57	Insert Interval
+56	Merge Intervals
+55	Jump Game
+54	Spiral Matrix
+53	Maximum Subarray
+51	N-Queens
+
+50	Pow(x, n)
+49	Group Anagrams
+48	Rotate Image
+47	Permutations II
+46	Permutations
+45	Jump Game II
+44	Wildcard Matching
+43	Multiply Strings
+42	Trapping Rain Water
+41	First Missing Positive
+40	Combination Sum II
+39	Combination Sum
+38	Count and Say
+37	Sudoku Solver
+36	Valid Sudoku
+34	Find First and Last Position of Element in Sorted Array
+33	Search in Rotated Sorted Array
+32	Longest Valid Parentheses
+31	Next Permutation
+30	Substring with Concatenation of All Words
+
+29	Divide Two Integers
+28	Implement strStr()
+26	Remove Duplicates from Sorted Array
+
+25	Reverse Nodes in k-Group
+24	Swap Nodes in Pairs
+23	Merge k Sorted Lists
+22	Generate Parentheses
+21	Merge Two Sorted Lists
+20	Valid Parentheses
+19	Remove Nth Node From End of List
+18	4Sum
+17	Letter Combinations of a Phone Number
+16	3Sum Closest
+15	3Sum
+14	Longest Common Prefix
+13	Roman to Integer
+12	Integer to Roman
+11	Container With Most Water
+10	Regular Expression Matching
+9	Palindrome Number
+8	String to Integer (atoi
+7	Reverse Integer
+6	ZigZag Conversion
+5	Longest Palindromic Substring
+4	Median of Two Sorted Arrays
+3	Longest Substring Without Repeating Characters
+2	Add Two Numbers
+1	Two Sum
